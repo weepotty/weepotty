@@ -12,7 +12,7 @@
 
 - 📄 Read about my experiences: [https://www.linkedin.com/in/shona-chan/](https://www.linkedin.com/in/shona-chan/)
 
-- ⚡ Fun fact: **I've spent the first half of my life in Singapore and the second half in the UK**
+- ⚡ Fun fact: **I've spent the first half of my life in Singapore and the second half in the UK. This means I love both laksa and tea & toast.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
