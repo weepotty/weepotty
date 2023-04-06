@@ -2,17 +2,17 @@
 <h1 align="center">Hi 👋, I'm Shona</h1>
 <h3 align="center">Doctor turned Coder</h3>
 
-- 🔭 I’m currently working on [SoundState](https://www.soundstate.live); demo username: soundstatedemo@gmail.com | password: SoundStateDemo1160
+- 🔭 I’m currently working on: [SoundState](https://www.soundstate.live); demo username: soundstatedemo@gmail.com | password: SoundStateDemo1160
 
-- 🌱 I’m currently learning **React, Python**
+- 🌱 I’m currently learning: **React, Python**
 
 - 💬 I've just completed **Le Wagon's Web Development Bootcamp**
 
-- 📫 How to reach me **shona.chan@doctors.org.uk**
+- 📫 How to reach me: **shona.chan@doctors.org.uk**
 
-- 📄 Read about my experiences [https://www.linkedin.com/in/shona-chan/](https://www.linkedin.com/in/shona-chan/)
+- 📄 Read about my experiences: [https://www.linkedin.com/in/shona-chan/](https://www.linkedin.com/in/shona-chan/)
 
-- ⚡ Fun fact **I've spent the first half of my life in Singapore and the second half in the UK**
+- ⚡ Fun fact: **I've spent the first half of my life in Singapore and the second half in the UK**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
