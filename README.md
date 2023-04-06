@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **mojavealoe@gmail.com**
 
-- 📄 Read about my experiences: [https://www.linkedin.com/in/shona-chan/](https://www.linkedin.com/in/shona-chan/)
+- 📄 More about my story: [https://www.linkedin.com/in/shona-chan/](https://www.linkedin.com/in/shona-chan/)
 
 - ⚡ Fun fact: **I spent the first half of my life in Singapore and the second half in the UK. This means I love both laksa and tea & toast.**
 
