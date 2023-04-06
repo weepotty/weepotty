@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on: [SoundState](https://www.soundstate.live); demo username: soundstatedemo@gmail.com | password: SoundStateDemo1160
 
-- 🌱 I’m currently learning: **React, Python**
+- 🌱 I’m currently learning: **React, Python.**
 
-- 💬 I've just completed **Le Wagon's Web Development Bootcamp**
+- 💬 I've just completed **Le Wagon's 9 week Web Development Bootcamp.**
 
 - 📫 How to reach me: **mojavealoe@gmail.com**
 
