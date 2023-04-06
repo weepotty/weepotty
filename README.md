@@ -8,7 +8,7 @@
 
 - 💬 I've just completed **Le Wagon's Web Development Bootcamp**
 
-- 📫 How to reach me: **shona.chan@doctors.org.uk**
+- 📫 How to reach me: **mojavealoe@gmail.com**
 
 - 📄 Read about my experiences: [https://www.linkedin.com/in/shona-chan/](https://www.linkedin.com/in/shona-chan/)
 
