@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Shona 👾</h1>
-<h3 align="center">Doctor turned Coder</h3>
+<h3 align="center">👩🏻‍⚕️ turned 👩🏻‍💻</h3>
 
 - 🔭 I’m currently working on: [SoundState](https://www.soundstate.live); demo username: soundstatedemo@gmail.com | password: SoundStateDemo1160
 
