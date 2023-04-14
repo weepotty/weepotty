@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Shona 👾</h1>
 <h3 align="center">👩🏻‍⚕️ turned 👩🏻‍💻</h3>
-![Spotify Song](https://now-playing-orcin.vercel.app/api)
+![Spotify Song](https://now-playing-orcin.vercel.app/api?rainbow=true)
 
 - 🔭 I’m currently working on: [SoundState](https://www.soundstate.live);
 
