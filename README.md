@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Shona 👾</h1>
 <h3 align="center">👩🏻‍⚕️ turned 👩🏻‍💻</h3>
 
-![Spotify Song](https://now-playing-orcin.vercel.app/api?rainbow=true)
+![Spotify Song](https://now-playing-orcin.vercel.app/api?rainbow=true?scan=true)
 
 - 🔭 I’m currently working on: [SoundState](https://www.soundstate.live);
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **mojavealoe@gmail.com**
 
-- 📄 More about my story: [https://www.linkedin.com/in/shona-chan/](https://www.linkedin.com/in/shona-chan/)
+- 📄 More about my story: [Here](https://www.shonachan.com/)
 
 - ⚡ Fun fact: **I spent the first half of my life in Singapore and the second half in the UK. This means I love both laksa and tea & toast.**
 
