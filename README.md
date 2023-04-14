@@ -15,7 +15,7 @@
 
 - 📄 More about my story: [Here](https://www.shonachan.com/)
 
-- ⚡ Fun fact: **I spent the first half of my life in Singapore and the second half in the UK. This means I love both laksa and tea & toast.**
+- ⚡ Fun fact: I spent the first half of my life in Singapore and the second half in the UK. This means I love both laksa and tea & toast. Not together though 🙃
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
