@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi, I'm Shona 👾</h1>
 <h3 align="center">👩🏻‍⚕️ turned 👩🏻‍💻</h3>
+![Spotify Song](https://now-playing.vercel.app/api)
 
-- 🔭 I’m currently working on: [SoundState](https://www.soundstate.live); demo username: soundstatedemo@gmail.com | password: SoundStateDemo1160
+- 🔭 I’m currently working on: [SoundState](https://www.soundstate.live);
 
 - 🌱 I’m currently learning: **React, Python.**
 
