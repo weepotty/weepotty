@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Shona 👾</h1>
-<h3 align="center">doc 👩🏻‍⚕️ turned coder 👩🏻‍💻 who loves music 🎵</h3>
+<h3 align="center">doc 👩🏻‍⚕️ turned coder 👩🏻‍💻 who loves music 🎧</h3>
 
 ![Spotify Song](https://now-playing-orcin.vercel.app/api?rainbow=true?scan=true)
 
