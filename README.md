@@ -4,7 +4,7 @@
 
 
   <div style="object-fit: scale-down">
-    <img src="https://now-playing-orcin.vercel.app/api?rainbow=true?scan=true" alt="Spotify Song" style="width: 90%">
+    <img src="https://now-playing-orcin.vercel.app/api?rainbow=true?scan=true" alt="Spotify Song" style="width: 50%">
   </div>
 
 - 🎓 **Just completed** Le Wagon's 9 week Web Development Bootcamp
