@@ -9,7 +9,7 @@
 
 - 🛠️ **Working on** [SoundState](https://www.soundstate.live)
 
-- 🌱 **Learning** ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+- 🌱 **Learning** ReactJS
 
 - 🪐 **Wee bit more about my story** [over here](https://www.shonachan.com/)
 
