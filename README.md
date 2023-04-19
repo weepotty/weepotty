@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **mojavealoe@gmail.com**
 
-- 📄 Wee bit more about my story: [over here](https://www.shonachan.com/)
+- 🪐 Wee bit more about my story: [over here](https://www.shonachan.com/)
 
 - ⚡ Fun fact: I spent the first half of my life in Singapore and the second half in the UK. This means I love both laksa and tea & toast. Not together though 🙃
 
