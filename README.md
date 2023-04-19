@@ -3,8 +3,8 @@
 <h3 align="left">doc 👩🏻‍⚕️ turned coder 👩🏻‍💻 who loves music 🎧</h3>
 
 
-  <div>
-    <img src="https://now-playing-orcin.vercel.app/api?rainbow=true?scan=true" alt="Spotify Song">
+  <div style="object-fit: scale-down">
+    <img src="https://now-playing-orcin.vercel.app/api?rainbow=true?scan=true" alt="Spotify Song" style="width: 90%">
   </div>
 
 - 🎓 **Just completed** Le Wagon's 9 week Web Development Bootcamp
