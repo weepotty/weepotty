@@ -2,10 +2,9 @@
 <h1 align="center">Hi, I'm Shona 👾</h1>
 <h3 align="left">doc 👩🏻‍⚕️ turned coder 👩🏻‍💻 who loves music 🎧</h3>
 
-
   <!-- The Spotify song container -->
-  <div id="spotify-song" style="max-width: 90vw">
-    <img src="https://now-playing-orcin.vercel.app/api?rainbow=true?scan=true" alt="Spotify Song">
+  <div>
+    <img src="https://now-playing-orcin.vercel.app/api?rainbow=true?scan=true" alt="Spotify Song" style="width: 30%">
   </div>
 
 - 🎓 **Just completed** Le Wagon's 9 week Web Development Bootcamp
