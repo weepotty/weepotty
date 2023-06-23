@@ -5,9 +5,9 @@
 
 ![Spotify Song](https://now-playing-orcin.vercel.app/api?rainbow=true?scan=true)
 
-- 🎓 **Just completed** Le Wagon's 9 week Web Development Bootcamp
+- 🎓 **Just completed** Le Wagon's 9 week Web Development Bootcamp - check out the final app - [SoundState](https://www.soundstate.live)
 
-- 🛠️ **Working on** the Rails World website for the Rails Foundation & [SoundState](https://www.soundstate.live)
+- 🛠️ **Working on** the Rails World website for the Rails Foundation
 
 - 🌱 **Learning** ReactJS
 
