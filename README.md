@@ -7,7 +7,7 @@
 
 - 🎓 **Just completed** Le Wagon's 9 week Web Development Bootcamp
 
-- 🛠️ **Working on** [SoundState](https://www.soundstate.live)
+- 🛠️ **Working on** Rails World website for the Rails Foundation & [SoundState](https://www.soundstate.live)
 
 - 🌱 **Learning** ReactJS
 
@@ -22,15 +22,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-
-![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby)
-![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-black?style=flat&logo=rubyonrails&logoColor=CC0000)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Sass](https://img.shields.io/badge/-Sass-black?style=flat&logo=sass&logoColor=CC6699)
+![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-black?style=flat&logo=rubyonrails&logoColor=CC0000)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Stimulus](https://img.shields.io/badge/-Stimulus-black?style=flat&logo=stimulus&logoColor=77E8B9)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
