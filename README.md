@@ -7,7 +7,7 @@
 
 - 🎓 **Just completed** Le Wagon's 9 week Web Development Bootcamp
 
-- 🛠️ **Working on** Rails World website for the Rails Foundation & [SoundState](https://www.soundstate.live)
+- 🛠️ **Working on** the Rails World website for the Rails Foundation & [SoundState](https://www.soundstate.live)
 
 - 🌱 **Learning** ReactJS
 
