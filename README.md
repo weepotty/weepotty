@@ -5,11 +5,11 @@
 
 ![Spotify Song](https://now-playing-orcin.vercel.app/api?rainbow=true?scan=true)
 
-- 🎓 **Just completed** Le Wagon's 9 week Web Development Bootcamp - check out the final app - [SoundState](https://www.soundstate.live)
+- 🎓 **Working as** SWE @ Eolas Medical
 
-- 🛠️ **Working on** the [Rails World](https://rubyonrails.org/world) website for the Rails Foundation
+- 🛠️ **Previous Work** the [Rails World](https://rubyonrails.org/world) website for the Rails Foundation
 
-- 🌱 **Learning** ReactJS
+- 🌱 **Learning** how to build a robust RAG system
 
 - 🪐 **Wee bit more about my story** [over here](https://www.shonachan.com/)
 
